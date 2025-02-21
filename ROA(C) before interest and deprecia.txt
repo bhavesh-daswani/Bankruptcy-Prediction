@@ -1,0 +1,9 @@
+ROA(C) before interest and depreciation before interest	ROA(A) before interest and % after tax
+ROA(B) before interest and depreciation after tax
+Persistent EPS in the Last Four Seasons
+Per Share Net profit before tax (Yuan ¥)
+Net worth/Assets
+Debt ratio %
+Net profit before tax/Paid-in capital
+Retained Earnings to Total Assets
+Net Income to Total Assets
